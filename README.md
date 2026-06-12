@@ -1,9 +1,5 @@
 Olá, eu sou Luis Felippe! 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Estudante+de+Tecnologia;Apaixonado+por+código;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
-</div>
-
 🚀 Sobre mim
 
 
