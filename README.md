@@ -21,7 +21,7 @@
 
 | Projeto | Descrição | Tecnologia |
 |---------|-----------|------------|
-| [techflow-task-manager](https://github.com/LuisAzeve/techflow-task-manager) | Gerenciador de tarefas | — |
+| [techflow-task-manager](https://github.com/LuisAzeve/techflow-task-manager) | Gerenciador de tarefas | Python, css, html |
 | [Portfólio SQL](https://github.com/LuisAzeve/Portf-lio-Sql) | Portfólio de SQL da faculdade | SQL |
 | [Algoritmos e Dados](https://github.com/LuisAzeve/estudo-algoritmos-e-dados) | Estudo de algoritmos e estruturas de dados | Rust |
 | [Estudo Java](https://github.com/LuisAzeve/estudo-java) | Estudos de Java | Java |
