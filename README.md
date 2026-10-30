@@ -27,13 +27,6 @@ Olá, eu sou Luis Felippe! 👋
 ProjetoDescriçãoTecnologiatechflow-task-managerGerenciador de tarefas—Portfólio SQLPortfolio de SQL da faculdadeSQLAlgoritmos e DadosEstudo de algoritmos e estruturas de dadosRustEstudo JavaEstudos de JavaJavaAtalhos de TecladoColeção de atalhos de teclado úteisPython
 
 
-📊 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=LuisAzeve&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAzeve&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
 📫 Onde me encontrar
 
 <div align="left">
